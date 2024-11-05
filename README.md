@@ -5,7 +5,7 @@ SwiftUI enthusiast.
 Love to design beautiful apps and develop amazing features.
 I love exploring the latest technologies and frameworks to build robust and efficient iOS apps.
 
-As an iOS Application Developer with over 10.10 years of professional experience, I have successfully delivered over 30+ iOS mobile applications.
+As an iOS Application Developer with over 11+ years of professional experience, I have successfully delivered over 30+ iOS mobile applications.
 
 Skills
 Programming Languages: Swift, Objective-C
