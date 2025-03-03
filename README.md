@@ -1,6 +1,6 @@
 👋 Hi, I’m Bala Baskar Bollisetty
 
-I’m an iOS Developer with over 11+ years of experience who’s passionate about Swift and SwiftUI. I love designing beautiful apps and crafting features that make users’ lives easier. My forte is exploring the latest technologies and frameworks to build robust and efficient iOS apps.
+I’m an iOS Developer with over 9+ years of experience who’s passionate about Swift and SwiftUI. I love designing beautiful apps and crafting features that make users’ lives easier. My forte is exploring the latest technologies and frameworks to build robust and efficient iOS apps.
 
 Throughout my career, I’ve successfully delivered over 30+ iOS mobile applications. Let’s get to know each other and create some magic together!
 
