@@ -17,10 +17,6 @@ Throughout my career, I’ve successfully delivered over 30+ iOS mobile applicat
 ### IDE:
 ![Xcode](https://camo.githubusercontent.com/53be7dea3e6ac81143cdec915e7c2eadb03d2f75d01e87dc56e02ca440057446/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f78636f64652d3135373546393f7374796c653d666f722d7468652d6261646765266c6f676f3d78636f6465266c6f676f436f6c6f723d7768697465)
 
-### 🛠 IDE & Tools:
-![Xcode](...)  
-🧰 TestFlight • App Center • Instruments • CI/CD • SourceTree
-
 ### Frameworks:
 ![Core Data](https://camo.githubusercontent.com/d432be915145dd9fbf6832aeca8ee24d03251a73f3bd92552a7bc50378fc8ea7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f7265253230646174612d3144384546443f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465)
 ![Core Animation](https://camo.githubusercontent.com/5214dfea5aeff182d6ba078314e182d84e4aa58904461dfee2cf1359013ac3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f7265253230616e696d6174696f6e2d4646413530303f7374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465)
@@ -42,7 +38,7 @@ Throughout my career, I’ve successfully delivered over 30+ iOS mobile applicat
 ![Apple](https://img.shields.io/badge/Apple%20Sign--In-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn%20Auth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-### 🌐 APIs & Communication:
+### APIs & Communication:
 REST APIs • JSON • Bluetooth • FCM • Offline Storage (CoreData, UserDefaults) • Offline Payment SDK
 
 ### Version Control Systems:
@@ -50,6 +46,13 @@ REST APIs • JSON • Bluetooth • FCM • Offline Storage (CoreData, UserDefa
 ![GitHub](https://camo.githubusercontent.com/236fcd63f5c7932c0928a86fb7ebdbb5e8876cc4c03779cd1fc8aa9c0196aab2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
 ![Bitbucket](https://camo.githubusercontent.com/068c48fc93a1ceb58843d8e28fde73d0cf3c75a65db4ed039235a37f7b3dba72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6269746275636b65742d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d6269746275636b6574266c6f676f436f6c6f723d7768697465)
 ![GitLab](https://camo.githubusercontent.com/a2ee780ff8f3e8a10c87dc53adb22255f8547230e9aa8445313708551c402f12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746c61622d4643364432363f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465)
+
+### Testing, Distribution & QA Tools:
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF7100?style=for-the-badge&logo=browserstack&logoColor=white)
+![LambdaTest](https://img.shields.io/badge/LambdaTest-2FBBED?style=for-the-badge&logo=lambdatest&logoColor=white)
+![HockeyApp](https://img.shields.io/badge/HockeyApp-0091EA?style=for-the-badge&logo=microsoft&logoColor=white)
+TestFlight • App Center • Instruments • CI/CD • SourceTree
+
 
 ### Collaboration:
 Agile/Scrum • Jira • Confluence
@@ -63,13 +66,13 @@ Agile/Scrum • Jira • Confluence
 ![XCTest](https://camo.githubusercontent.com/86e24126cc9cd4b3ca36bc7aad4742af472897a14ce8b8f319b5b0634c33d87a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7863746573742d4641314532443f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465)
 ![Xcode Instruments](https://camo.githubusercontent.com/af5425cac1aa8357dbdc9e12bc2eb4133401dad8ff1dd82cd57803f2e6a491f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f78636f6465253230696e737472756d656e74732d3030373143353f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465)
 
-### 🔧 Build & Package Management:
+### Build & Package Management:
 CocoaPods • Swift Package Manager (SPM)
 
-### 🔍 Monitoring & Analytics:
+### Monitoring & Analytics:
 Firebase • Crashlytics • Google Analytics • Segment • A/B Testing
 
-## 🌟 Key Highlights
+## Key Highlights
 
 - 🚀 Optimized app launch speed by **25%**
 - 📱 Delivered highly-rated mobile apps for global enterprise clients
