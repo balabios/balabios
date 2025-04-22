@@ -32,6 +32,12 @@ Throughout my career, I’ve successfully delivered over 30+ iOS mobile applicat
 ![RxSwift](https://camo.githubusercontent.com/806a57ddb9e004f292cb05357bfabb1682ab13adaf30507be26c172a46904881/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727873776966742d4444304237383f7374796c653d666f722d7468652d6261646765266c6f676f3d726561637469766578266c6f676f436f6c6f723d7768697465)
 ![Combine](https://img.shields.io/badge/combine-FF6F61?style=for-the-badge&logo=apple&logoColor=white)
 
+### Authentication:
+![Google](https://img.shields.io/badge/Google%20Sign--In-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook%20Login-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple%20Sign--In-000000?style=for-the-badge&logo=apple&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn%20Auth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ### Version Control Systems:
 ![Git](https://camo.githubusercontent.com/f9ca7f976e491f93373e6ac765ce77078bc1fd7e7338345e108f0eb8dd69463b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ![GitHub](https://camo.githubusercontent.com/236fcd63f5c7932c0928a86fb7ebdbb5e8876cc4c03779cd1fc8aa9c0196aab2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
