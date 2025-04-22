@@ -17,6 +17,11 @@ Throughout my career, I’ve successfully delivered over 30+ iOS mobile applicat
 ### IDE:
 ![Xcode](https://camo.githubusercontent.com/53be7dea3e6ac81143cdec915e7c2eadb03d2f75d01e87dc56e02ca440057446/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f78636f64652d3135373546393f7374796c653d666f722d7468652d6261646765266c6f676f3d78636f6465266c6f676f436f6c6f723d7768697465)
 
+### 🧰 IDE & Tools
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-00B3EC?style=for-the-badge&logo=app-store&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
+
 ### Frameworks:
 ![Core Data](https://camo.githubusercontent.com/d432be915145dd9fbf6832aeca8ee24d03251a73f3bd92552a7bc50378fc8ea7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f7265253230646174612d3144384546443f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465)
 ![Core Animation](https://camo.githubusercontent.com/5214dfea5aeff182d6ba078314e182d84e4aa58904461dfee2cf1359013ac3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f7265253230616e696d6174696f6e2d4646413530303f7374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465)
@@ -25,6 +30,14 @@ Throughout my career, I’ve successfully delivered over 30+ iOS mobile applicat
 ![MapKit](https://camo.githubusercontent.com/15f990f78b14e33c02ed1dabe5ab58a890e861ca5c622f660120972e0e0642a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61706b69742d3030373844373f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465)
 ![AVFoundation](https://camo.githubusercontent.com/613977e9e0b9a44b5b942ab8098ed55335c0eb236696b52c5745dbb9cd4e99b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6176666f756e646174696f6e2d4646324435353f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465)
 
+### 📚 Frameworks
+![Core Data](https://img.shields.io/badge/Core%20Data-1D8EFD?style=for-the-badge&logo=apple&logoColor=white)
+![Core Animation](https://img.shields.io/badge/Core%20Animation-FFA500?style=for-the-badge&logo=swift&logoColor=white)
+![Core Graphics](https://img.shields.io/badge/Core%20Graphics-32CD32?style=for-the-badge&logo=swift&logoColor=white)
+![Core Location](https://img.shields.io/badge/Core%20Location-00BFFF?style=for-the-badge&logo=swift&logoColor=white)
+![MapKit](https://img.shields.io/badge/MapKit-0078D7?style=for-the-badge&logo=apple&logoColor=white)
+![AVFoundation](https://img.shields.io/badge/AVFoundation-FF2D55?style=for-the-badge&logo=apple&logoColor=white)
+
 ### Libraries:
 ![Alamofire](https://camo.githubusercontent.com/72b6e9447d95029a1402b4a526581aa3269d15c8c5f4c3b79759c945e5195165/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616c616d6f666972652d4543353736363f7374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465)
 ![Firebase](https://camo.githubusercontent.com/221ae254ee1256b8799f8adee7bc4620b7e78f0ef1a6b3a75200559c11fa571a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d3033394245353f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d7768697465)
@@ -32,11 +45,33 @@ Throughout my career, I’ve successfully delivered over 30+ iOS mobile applicat
 ![RxSwift](https://camo.githubusercontent.com/806a57ddb9e004f292cb05357bfabb1682ab13adaf30507be26c172a46904881/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727873776966742d4444304237383f7374796c653d666f722d7468652d6261646765266c6f676f3d726561637469766578266c6f676f436f6c6f723d7768697465)
 ![Combine](https://img.shields.io/badge/combine-FF6F61?style=for-the-badge&logo=apple&logoColor=white)
 
+### 📦 Libraries & SDKs
+![Alamofire](https://img.shields.io/badge/Alamofire-EC5766?style=for-the-badge&logo=swift&logoColor=white)
+![AFNetworking](https://img.shields.io/badge/AFNetworking-4.0.1-EF5350?style=for-the-badge&logo=apple&logoColor=white)
+![SDWebImage](https://img.shields.io/badge/SDWebImage-4FC3F7?style=for-the-badge&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-FF7043?style=for-the-badge&logo=firebase&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Segment](https://img.shields.io/badge/Segment-3EB890?style=for-the-badge&logo=segment&logoColor=white)
+![Split](https://img.shields.io/badge/Split.io-7B1FA2?style=for-the-badge&logo=splunk&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-616161?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-DD0B78?style=for-the-badge&logo=reactivex&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-FF6F61?style=for-the-badge&logo=apple&logoColor=white)
+
+### 📦 Swift Packages Used
+[facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)
+[GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS)
+[mux-player-swift](https://github.com/muxinc/mux-player-swift)
+[swiftui-drawer](https://github.com/maustinstar/swiftui-drawer)
+[SwiftUI-Shimmer](https://github.com/markiv/SwiftUI-Shimmer)
+
 ### Authentication:
-![Google](https://img.shields.io/badge/Google%20Sign--In-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook%20Login-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple%20Sign--In-000000?style=for-the-badge&logo=apple&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn%20Auth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Google Sign-In](https://img.shields.io/badge/Google%20Sign--In-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Facebook Login](https://img.shields.io/badge/Facebook%20Login-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Apple Sign-In](https://img.shields.io/badge/Apple%20Sign--In-000000?style=for-the-badge&logo=apple&logoColor=white)
+![LinkedIn Auth](https://img.shields.io/badge/LinkedIn%20Auth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### APIs & Communication:
 REST APIs • JSON • Bluetooth • FCM • Offline Storage (CoreData, UserDefaults) • Offline Payment SDK
@@ -51,8 +86,8 @@ REST APIs • JSON • Bluetooth • FCM • Offline Storage (CoreData, UserDefa
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF7100?style=for-the-badge&logo=browserstack&logoColor=white)
 ![LambdaTest](https://img.shields.io/badge/LambdaTest-2FBBED?style=for-the-badge&logo=lambdatest&logoColor=white)
 ![HockeyApp](https://img.shields.io/badge/HockeyApp-0091EA?style=for-the-badge&logo=microsoft&logoColor=white)
-TestFlight • App Center • Instruments • CI/CD • SourceTree
 
+TestFlight • App Center • Instruments • CI/CD • SourceTree
 
 ### Collaboration:
 Agile/Scrum • Jira • Confluence
@@ -67,7 +102,8 @@ Agile/Scrum • Jira • Confluence
 ![Xcode Instruments](https://camo.githubusercontent.com/af5425cac1aa8357dbdc9e12bc2eb4133401dad8ff1dd82cd57803f2e6a491f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f78636f6465253230696e737472756d656e74732d3030373143353f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465)
 
 ### Build & Package Management:
-CocoaPods • Swift Package Manager (SPM)
+![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
+![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-DE5C32?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Monitoring & Analytics:
 Firebase • Crashlytics • Google Analytics • Segment • A/B Testing
